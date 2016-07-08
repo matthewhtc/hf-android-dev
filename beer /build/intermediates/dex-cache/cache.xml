@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Matthew/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Matthew/Desktop/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_709e5913f0808e0efdab5a6245bdaa14f3cb6987/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Matthew/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Matthew/Desktop/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_3d133b8d173b9d8d7f0317d084b7681e88899f4c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Matthew/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Matthew/Desktop/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_e907ea452307e1a690e3239097c84646ad32b254/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Matthew/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Matthew/Desktop/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_3d26e094dfa3b566fdbd68a1f9453fa9d1cb5cfe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Matthew/Desktop/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="da5910de4236475f5be0b14fa26cbbc11d6d0b4e">
+        <dex dex="/Users/Matthew/Desktop/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d67a59ca08c9da3f29b54a5ee8c6b577231f0e93/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Matthew/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Matthew/Desktop/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_e0319ffa9c48024e2dfc0b7a6e3ed93140606414/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Matthew/Desktop/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c28c417e57556c028fcabecdc0baffd128c14ea3">
+        <dex dex="/Users/Matthew/Desktop/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f45304715f7e667d5587373003f9d6bc99ab46f9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Matthew/Desktop/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Matthew/Desktop/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_5f1e3ee5b561a002de26f3556726ce0fc6a494ca/classes.dex" />
+    </item>
+
+</items>
