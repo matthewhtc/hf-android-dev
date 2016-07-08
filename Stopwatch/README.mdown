@@ -1,0 +1,3 @@
+#Stopwatch 
+
+A stopwatch app with only 3 buttons: stop, start, and reset. Also fixed the bug where activity gets destroyed after screen rotation. 
